@@ -1,1 +1,1 @@
-# machine-learning-tensorflow.js-transfer-learning-with-mobilenet
+Google AI Course: Make Teachable Machine Using Transfer Learning
